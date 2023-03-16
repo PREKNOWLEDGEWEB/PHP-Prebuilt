@@ -1,0 +1,1 @@
+./configure --enable-mbstring --enable-pdo --with-mysqli --with-curl --enable-gd --enable-exif
